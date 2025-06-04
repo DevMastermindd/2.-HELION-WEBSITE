@@ -1076,7 +1076,7 @@ nav{
 .sec-7-1{
     width: 50%;
     height: max-content;
-    background-image: url(extra_bg-1.png);
+    background-image: url(./assests/extra_bg-1.png);
     background-size: cover;
     background-position: center;
     padding: 70px 50px;
@@ -1084,7 +1084,7 @@ nav{
 .sec-7-2{
     width: 50%;
     height: max-content;
-    background-image: url(extra_bg-2.png);
+    background-image: url(./assests/extra_bg-2.png);
     background-size: cover;
     background-position: center;
     padding: 70px 50px;
